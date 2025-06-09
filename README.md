@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/18853908-4c36-411b-8003-20be90105d10)# MindCare - Mental Health Support Platform
-
 A comprehensive mental health support platform built with React, TypeScript, and Tailwind CSS. MindCare provides a safe, confidential space for users to connect with mental health professionals, access resources, and find support.
 
 ## 🌟 Features
